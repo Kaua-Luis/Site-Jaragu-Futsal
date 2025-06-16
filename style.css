@@ -1,0 +1,40 @@
+body {
+    background-color: #ffff00;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #000000;
+    padding: 50px 0;
+  }
+
+  nav a {
+    color: rgb(251, 255, 29);
+    text-decoration: none;
+    margin: 15px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  .logo {
+    margin : 50px auto 20px;
+    margin-top: 150px;
+  }
+
+  .logo img {
+    width: 200px;
+    height: auto;
+  }
+
+  h1 {
+    color: #000000;
+
+  }
+  
