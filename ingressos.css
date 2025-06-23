@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background-color: black;
+    color: black;
+  }
+  
+  header {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    background-color: #cddc39;
+    color: black;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin: 10px;
+    font-size: 24px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+  
+  main {
+    background-color: yellow;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .ingressos h1 {
+    font-size: 60px;
+    margin: 0;
+  }
+  
+  .ingressos h2 {
+    font-size: 32px;
+    margin: 10px 0;
+  }
+  
+  .ingressos p {
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+  
+  .versus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .time img {
+    height: 150px;
+  }
+  
+  .vs {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .botao {
+    background-color: black;
+    color: yellow;
+    padding: 15px 30px;
+    font-size: 28px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: 'Georgia', serif;
+  }
+  
